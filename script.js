@@ -1,7 +1,7 @@
 // Texto de la carta de amor
 const loveText = `
 
-Estaba practicando código ayer y me acordé de ti. Creé este proyecto almacenado en una web pública (por eso el link está raro). Te comparto el resultado. Y no es un virus jajaja.
+Estaba practicando código ayer y me acordé de ti. Almacené este proyecto en una web pública (por eso el link está raro). Te comparto el resultado. Y no es un virus jajaja.
 
 La parte interesante son las animaciones; están sencillas pero me gustaron y espero ir mejorándolas. Estoy aprendiendo programación en mi tiempo libre.
 

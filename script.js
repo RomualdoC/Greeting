@@ -1,13 +1,13 @@
 // Texto de la carta de amor
 const loveText = `
 
-Estaba practicando código ayer y me acordé de ti. Almacené este proyecto en una web pública (por eso el link está raro). Te comparto el resultado. Y no es un virus jajaja.
+Hola niña, espero que te encuentres muy bien. Quiero preguntarte algo directamente para evitar malentendidos: ¿prefieres que te trate solo como una amiga?. No quiero que te incomode mi forma de tratarte.
 
-La parte interesante son las animaciones; están sencillas pero me gustaron y espero ir mejorándolas. Estoy aprendiendo programación en mi tiempo libre.
+Entiendo si quieres mantener una amistad sin complicaciones o si hay interés de conocernos más, y en cualquier caso, respeto tu espacio y tu tiempo. Quiero tratarte como tú te sientas más cómoda.
 
-Que tengas una bonita noche y llena de buena vibra. ✨✨✨
+No tenía pensando preguntarte esto, pero aproveché que te reenviaría el link con la música que le agregué.
 
-PD: Los corazones son decoración obligatoria en códigos HTML, jaja. 💻❤️.`;
+PD: Esta página solo es visible para quien tenga en link, así que no te preocupes jaja. `;
 
 // Variables globales
 let typewriterIndex = 0;
